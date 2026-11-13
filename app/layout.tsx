@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next.js Hybrid Starter",
-  description: "A server-rendered Next.js app with a Hello World API route.",
+  title: "Auth.js Demo | Next.js Hybrid Starter",
+  description: "A Next.js credentials sign-in demo using Auth.js.",
 };
 
 export default function RootLayout({
