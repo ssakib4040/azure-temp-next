@@ -22,7 +22,7 @@ export default async function Home() {
       </ul>
 
       <div className="mx-auto flex max-w-4xl flex-col gap-12">
-        <p className="mt-2 text-2xl font-medium text-white"></p>
+        <p className="mt-2 text-2xl font-medium text-white">{renderedAt}</p>
       </div>
     </main>
   );
